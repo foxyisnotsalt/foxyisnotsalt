@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @foxyinotsalt
+- 👋 Hi, I’m @foxyisnotsalt
 - 👀 I’m interested in IA
 - 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on ...
