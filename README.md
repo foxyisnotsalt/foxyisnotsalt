@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Arduino projects<br>👯 I’m looking to collaborate on robotics<br>🤝 I’m looking for help with 3D design<br>🌱 I’m currently learning C++ and Python<br>💬 Ask me about silly things<br>⚡ Fun fact: I'm a Doctor Who fan
+🔭 I’m currently working on Arduino projects<br>👯 I’m looking to collaborate on robotics<br>🤝 I’m looking for help with PCB Design<br>🌱 I’m currently learning C++ and Python<br>💬 Ask me about silly things<br>⚡ Fun fact: I'm a Doctor Who fan
 
 
 ## 🌐 Socials:
